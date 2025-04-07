@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    height: 250px;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    background-color: chocolate;
+}
+img{
+    height: 200px;
+    display: flex;
+    
+}
+.imagen{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.profesion{
+    height: 100px;
+    display: flex;
+    justify-content: center;
+}
+.habilidades{
+    height: 50px;
+    background-color: chocolate;
+}
+.contenedor{
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    border-style: double;
+    
+}
+.about{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.titulo{
+    height: 80%;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: 18px;
+    background-image: url(./../img/image-crop-200001057-1.jpeg);
+    background-size: 700px;
+}
+footer{
+    height: 100px;
+    background-color: chocolate;
+
+}
+.pies{
+    height: 10%;
+    color: blue;
+    display: flex;
+    justify-content: flex-start;
+}
+li{
+    list-style: none;
+}
+a{
+    height: 20px;
+    width: 300px;
+    display: flex;
+    justify-content: flex-end;
+}
+.caja{
+    height: 500px;
+    border-style: double;
+    border-radius: 10px;
+    border-color: blueviolet;
+}
+.inicio{
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.contenido{
+    height: 390px;
+}
